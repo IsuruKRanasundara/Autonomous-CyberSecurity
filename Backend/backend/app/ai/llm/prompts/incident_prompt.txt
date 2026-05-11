@@ -1,0 +1,2 @@
+Summarize the incident timeline, impacted assets, and likely root cause.
+Produce a concise incident response narrative with recommended next steps.

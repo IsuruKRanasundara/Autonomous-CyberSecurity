@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  backend:
+    image: backend-placeholder
+  kafka:
+    image: kafka-placeholder
+  elasticsearch:
+    image: elasticsearch-placeholder
+  postgres:
+    image: postgres-placeholder

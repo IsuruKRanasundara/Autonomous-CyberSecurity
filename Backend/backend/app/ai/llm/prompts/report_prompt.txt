@@ -1,0 +1,2 @@
+Generate an executive-ready security report with findings, impact, remediation, and evidence references.
+Prefer concise language suitable for both SOC analysts and management audiences.
